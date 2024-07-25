@@ -1,4 +1,4 @@
-import { ExternalLink, Icon } from "lucide-react";
+import { ExternalLink } from "lucide-react";
 
 import { ContactForm } from "@/components/contact";
 import ExpCard from "@/components/experience-card";
